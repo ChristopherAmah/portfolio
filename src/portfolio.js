@@ -148,7 +148,7 @@ const workExperiences = {
       role: "Data Foundation Intern",
       company: "Chevron Nigeria Limited",
       companylogo: require("./assets/images/chevronlogo.png"),
-      date: "January 2023 – June 2024",
+      date: "January 2023 – June 2023",
       desc: "As a Data Foundation Intern, I contributed to the development and maintenance of data pipelines and dashboards, enhancing data accessibility and visualization for stakeholders.",
       // descBullets: [
       //   "Facilitated agile processes as Scrum Master for a data-focused team, improving sprint coordination by 50%, enhancing visibility, and prioritizing tasks using Azure DevOps to ensure timely project delivery",
@@ -208,7 +208,7 @@ const bigProjects = {
           url: "https://play.google.com/store/apps/details?id=com.GDSC.StudyStats&hl=en"
         }
       ]
-    }
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
