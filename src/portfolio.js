@@ -187,13 +187,49 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
+      image: require("./assets/images/moodnotes.png"),
+      projectName: "Mood Notes",
+      projectDesc: "A mood tracking app that helps users monitor their emotional well-being and provides insights to improve mental health.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://mood-note-front.vercel.app/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/kuleanpay.png"),
+      projectName: "Kuleanpay",
+      projectDesc: "A mobile app that helps with seamless daily transactions and effortless finance management",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://kuleanpay-eta.vercel.app/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/lascofed.png"),
+      projectName: "Lascofed",
+      projectDesc: "A website for a cooperative federation, the Lagos State Cooperative Federation",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://lascofed.coop/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
       image: require("./assets/images/thecellarage.png"),
       projectName: "The Cellarage",
       projectDesc: "An e-commerce platform for wine enthusiasts, offering a curated selection of wines from around the world.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://www.the-cellarage.com/"
+          url: "https://thecellarage.com/"
         }
         //  you can add extra buttons here.
       ]

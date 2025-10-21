@@ -54,7 +54,7 @@ const Main = () => {
             <Projects />
             <StartupProject />
             <Achievement />
-            <Twitter />
+            {/* <Twitter /> */}
             <Profile />
             <Footer />
             <ScrollToTopButton />
