@@ -163,7 +163,7 @@ const workExperiences = {
       desc: "Led a team of 20+ students in developing innovative solutions, resulting in a 30% increase in student engagement through the implementation of a mobile application.",
     },
     {
-      role: "Backend Developer",
+      role: "Software Developer",
       company: "CWG PLC",
       companylogo: require("./assets/images/cwglogo.jpg"),
       date: "Jun 2025 – Present",
@@ -236,7 +236,7 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/studystats.png"),
-      projectName: "StudtyStats",
+      projectName: "StudyStats",
       projectDesc: "A web application designed to help students track their study habits and improve their academic performance through data analysis.",
       footerLink: [
         {
