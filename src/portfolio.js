@@ -199,6 +199,18 @@ const bigProjects = {
       ]
     },
     {
+      image: require("./assets/images/mealmate.png"),
+      projectName: "Meal Mate",
+      projectDesc: "A meal planning app that suggests recipes based on user preferences and dietary restrictions.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://meallmate.vercel.app/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
       image: require("./assets/images/kuleanpay.png"),
       projectName: "Kuleanpay",
       projectDesc: "A mobile app that helps with seamless daily transactions and effortless finance management",
