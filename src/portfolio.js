@@ -167,7 +167,7 @@ const workExperiences = {
       company: "CWG PLC",
       companylogo: require("./assets/images/cwglogo.jpg"),
       date: "Jun 2025 – Present",
-      desc: "As a Backend Developer, I am responsible for designing and implementing robust backend systems, ensuring seamless integration with frontend applications, and optimizing database performance.",
+      desc: "As a Software Developer, I am responsible for designing and implementing robust software systems, ensuring seamless integration with frontend applications, and optimizing database performance.",
     }
   ]
 };
